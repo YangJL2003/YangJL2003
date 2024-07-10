@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/7719e5b5-3d91-4ef3-a91a-12f4c7258f1a.svg)](https://wakatime.com/@7719e5b5-3d91-4ef3-a91a-12f4c7258f1a)
-
+<figure><embed src="https://wakatime.com/share/@93b7742d-11d4-41b1-9fdc-2d14d730eca0/ce9474d3-e3e5-4cb0-8b9c-1d4bc435d372.svg"></embed></figure>
 
 <!--
 **YangJL2003/YangJL2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
